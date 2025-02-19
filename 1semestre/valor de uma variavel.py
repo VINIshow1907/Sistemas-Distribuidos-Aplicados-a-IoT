@@ -1,0 +1,5 @@
+numero = int(input("Digite um valor:"))
+print(type(numero))
+#print ("O numero ", numero, "foi digitado")
+#print ("O numero {} foi digitado".format(numero))
+print (f"O numero {numero} foi digitado")
