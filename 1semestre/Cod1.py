@@ -1,1 +1,0 @@
-print ("Palmeiras não tem mundial!!!!!!!!⌨")
