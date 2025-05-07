@@ -1,4 +1,4 @@
-from machine import Pin, PWM
+from machine import Pin, PWM # type: ignore
 from time import sleep
 from random import getrandbits
 
